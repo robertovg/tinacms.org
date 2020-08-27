@@ -2,9 +2,8 @@
 title: Whatever
 date: '2020-08-26T22:20:02+02:00'
 author: asdf
+last_edited: '2020-08-27T11:09:39.325Z'
 ---
-
-
 * What is the core team's current objectives?
 * What was accomplished in the last week?
 * What's next for the core team?
@@ -26,10 +25,10 @@ Thanks to everyone for contributing!
 
 | # Commits | Name |
 | --- | --- |
-| | |
-| | |
-| | |
-| | |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ## GitHub Milestones
 
